@@ -7,11 +7,11 @@
 # 
 # ==============================================================================
 # @author 			Aryan Gupta
-# @project 			BirthdayPDX
+# @project 			Birthday Paradox
 # @file 			Makefile
 # @date				2017-04-07 (YYYY-MM-DD)
 # @version			1.0.0
-# @brief 			This is the Makefile for The Tic Tac Toe Project
+# @brief 			This is the Makefile for The Birthday Paradox Project
 # ==============================================================================
 .DEFAULT_GOAL := all
 # ==========================  CONST MACROS  ====================================
