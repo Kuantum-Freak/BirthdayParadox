@@ -1,6 +1,6 @@
-# Prime Map
+# Birthday Paradox
 
-A simple multi-threaded program that finds primes and sores them in a cool looking bitmap
+A simple multi-threaded program that simulates the birthday paradox
 
 ## Installation
 
@@ -19,7 +19,9 @@ Run the excutable with these parameters:
 | -d        | False   | Use this switch to specify whether to display the bitmap        |
 
 Usage:   `.\\BirthdayPDX.exe [-t <threads>] [-s <simulations>] [-p <people>] [-d] [-r <people>]`
+
 Example: `.\\BirthdayPDX.exe -t 7 -s 500000 -p 50`
+
 Example: `.\\BirthdayPDX.exe -t 7 -s 500000 -d -r 50`
   
 ## Contributing
